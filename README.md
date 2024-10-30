@@ -2,7 +2,8 @@
 Email : chan4398@gmail.com
 
 ## 프로젝트 소개
-(해당 프로젝트는 제가 관련된 코드만 등록되어있습니다.)
+(해당 프로젝트는 제가 관련된 코드만 등록되어있습니다.) 
+
 Unity와 네이티브 환경 간의 연결을 지원합니다. 네이티브에서 받은 정보들을 Unity의 월드 별로 필요한 기능을 전달합니다.
 
 ## 프로젝트 개요
@@ -24,4 +25,4 @@ Unity와 네이티브 환경 간의 연결을 지원합니다. 네이티브에�
 
 - 동영상: https://youtu.be/1NSluzj7cn8?si=LaWyum5Yw_4twlrI
   
-- 구글스토어: https://play.google.com/store/apps/details? id=com.awesomepia.metalive&pcampaignid=web_share 
+- 구글스토어: https://play.google.com/store/apps/details?id=com.awesomepia.metalive&pcampaignid=web_share 
